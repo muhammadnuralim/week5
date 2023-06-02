@@ -6,6 +6,6 @@ git checkout -b *nama_branch*
 
 # Pada branch baru tambahkan file dengan
 ### git add .
-### commit /n
-### git commit -m "masukan pesan" /n
+### commit
+### git commit -m "masukan pesan"
 ### git push -u origin *nama_branch_baru*

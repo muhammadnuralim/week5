@@ -5,7 +5,7 @@ git pull
 git checkout -b *nama_branch*
 
 # Pada branch baru tambahkan file dengan
-git add . /n
-commit /n
-git commit -m "masukan pesan" /n
-git push -u origin *nama_branch_baru*
+### git add .
+### commit /n
+### git commit -m "masukan pesan" /n
+### git push -u origin *nama_branch_baru*
